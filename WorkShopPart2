@@ -1,3 +1,5 @@
+print("hello guys")
+
 docker container run -ti ubuntu bash
 
 
